@@ -25,12 +25,8 @@ This repository contains a comprehensive applied statistics project implemented 
 - Descriptive statistics (mean, median, std. dev, etc.)
 - Data visualization (histograms, boxplots, scatterplots)
 - Correlation analysis
-- Hypothesis testing:
-  - t-tests
-  - ANOVA
-  - Chi-square test
+- Hypothesis testing
 - Confidence intervals
-- Regression analysis (if applicable)
 
 ---
 
@@ -45,11 +41,5 @@ This repository contains a comprehensive applied statistics project implemented 
   - `seaborn`
   - `scipy.stats`
   - `statsmodels`
-
----
-
-## 📈 Sample Outputs
-
-_Include screenshots of major graphs or statistical test results here (optional)._
 
 ---
